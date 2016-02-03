@@ -1,15 +1,16 @@
-# Humanitary Icons
-A fork of the [elementary icons](https://github.com/elementary/icons) using a neutral palette.
+# Zombie Icons
 
-Like the original theme, these icons are licensed under the terms of the GNU General Public License. Redistributing, forking, remixing, etc. is encouraged!
+A revival of the Human icon theme
 
-## Installation
+Zombie is distributed under the terms of a Creative Commons Attribution-Share Alike 4.0 license.
 
-To use "Humanitary" copy the icon theme to your Home folder:
+## Installation & Usage
 
-    cp -r Humanitary/ $HOME/.local/share/icons/Humanitary
-    cp -r Humanitary/ $HOME/.icons/Humanitary
+To use "Zombie" copy the icon theme to your Home folder:
+
+    cp -r Zombie/ $HOME/.local/share/icons/Zombie
+    cp -r Zombie/ $HOME/.icons/Zombie
 
 and choose it from a tweak tool or use the terminal:
 
-    gsettings set org.gnome.desktop.interface icon-theme "Humanitary"
+    gsettings set org.gnome.desktop.interface icon-theme "Zombie"
