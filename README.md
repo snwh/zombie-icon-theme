@@ -1,6 +1,6 @@
 # Zombie Icon Theme
 
-A modern revival/recreation of the Human icon theme.
+A modern revival/recreation of the Human icon theme (a.k.a. "Zombie", get it?)
 
 Zombie is distributed under the terms of a Creative Commons Attribution-Share Alike 4.0 license.
 
